@@ -35,5 +35,5 @@ Este programa simula um sistema de compras onde o usuário define um **limite de
 
 - Java (24)
 - Collections (`ArrayList`, `Collections.sort()`)
-- JetBrains Intellij IDEA
+- JetBrains Intellij IDEA / VSCode
 - Git para versionamento
